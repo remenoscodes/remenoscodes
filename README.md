@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @remenoscodes
+- ⚡ Fun fact: this is an [@emersonsoares](https://github.com/emersonsoares) alter ego.

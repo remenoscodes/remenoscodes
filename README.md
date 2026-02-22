@@ -1,18 +1,6 @@
 - 👋 Hi, I’m @remenoscodes
 - ⚡ Fun fact: this is an [@emersonsoares](https://github.com/emersonsoares) alter ego.
 
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=remenoscodes&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=remenoscodes&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=remenoscodes&theme=default&utcOffset=8)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=remenoscodes&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=remenoscodes&theme=default)
-
-</div>
-
 #### 🔐 PGP Public Keys
 
 **Current Key (2026-02-08 onwards)**

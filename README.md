@@ -18,7 +18,7 @@
 **Current Key (2026-02-08 onwards)**
 - **Key ID**: `rsa4096/87084B5FE22026BE`
 - **Fingerprint**: `D105 CCE3 6E9D 6C2D BEE4  E8A0 8708 4B5F E220 26BE`
-- **Emails**: ***, ***
+- **Contact**: via [GitHub profile](https://github.com/remenoscodes)
 - **Download**: [remenoscodes-public.asc](remenoscodes-public.asc)
 
 **Legacy Key (until 2026-02-08)**

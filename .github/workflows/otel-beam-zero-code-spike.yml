@@ -1,0 +1,22 @@
+name: OTel BEAM zero-code spike
+
+on:
+  push:
+    branches:
+      - spike/otel-beam-zero-code
+  workflow_dispatch:
+
+jobs:
+  proof:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: erlef/setup-beam@v1
+        with:
+          otp-version: '27.3.4.13'
+          elixir-version: '1.18.4'
+      - run: |
+          mix local.hex --force
+          mix local.rebar --force
+      - run: bash experiments/otel-beam-zero-code/run-proof.sh
